@@ -163,6 +163,7 @@ We encourage to try delegation yourself, staking some tokens to other validators
 | | kr1ps (Dominican-Crypto) | Dominican Crypto development Team | @kr1ps.betanet | -% | DR | | |
 | :-) | Alex Turetskiy |Arllight! | @alexturetskiy.betanet | -% | RU | | |
 | <img src="https://user-images.githubusercontent.com/21022937/83322887-06236b00-a296-11ea-9fc5-034f5dee648b.png" width="40"> | DSRV | www.dsrvlabs.com | @dsrv.betanet | 10% | KR | | |
+| <img src="https://github.com/aquariusluo/validator-logos/blob/master/validators/one1ksqcladc3r5s90v494h9tfwdhkx88tq6j549f6.png?raw=true" width="40"> | [Staking-power](http://www.staking-power.tech) | Power Staking for POS projects via China team. | @aquariusluo.betanet | -% | CN | | |
 
 
 Notes:
